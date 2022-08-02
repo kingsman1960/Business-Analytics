@@ -1,0 +1,10 @@
+sua==1.0.9
+plotly
+prophet
+yfinance
+keras
+xgboost
+matplotlib
+sklearn
+statsmodels
+pandas_datareader
